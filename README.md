@@ -5,10 +5,9 @@
       <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Beginner+Front-end+Development;Always+learning+new+things&font=Fira%20Code&center=true&width=680&height=45&color=ff9100&vCenter=true&size=25&pause=1000">
     </a>
 </h3>
-  <br/>
-  
-<h3>🔎 About me :</h3>
 
+<h3>🔎 About me :</h3>
+<br>
 
 🎓 I'm currently studying Computer Science at **Al-Azhar University**. 
 
@@ -19,7 +18,6 @@
 📫 You can shoot me an email at rebheibrahim@gmail.com! I'll try to respond as soon as I can. 
 
 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/cv/) for more details about me. I'm open to feedback and suggestions. 
-
 
 
 
