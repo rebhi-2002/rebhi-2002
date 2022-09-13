@@ -44,7 +44,7 @@
 <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>,<span class="pl-smi">Java</span>,
                <span class="pl-smi">HTML</span>,<span class="pl-smi">CSS</span>,<span class="pl-smi">JavaScript</span>,
                <span class="pl-smi">Python</span>
-<span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">**Learn more about web**</span>
+<span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">Learn more about web</span>
 <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning</span>, <span class="pl-smi">Gaming</span>
 <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pgsohail@github" tabindex="0" role="button" style="display: inherit;">
@@ -58,7 +58,17 @@
   </div>
 </div>
 
-
+<p align="center" dir="auto">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-376c99?style=for-the-badge&logo=Python&logoColor=f7ca3e" />
+    <img src="https://img.shields.io/badge/-java-914359?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+    
 <!--
 
 **rebhi-2002/rebhi-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
