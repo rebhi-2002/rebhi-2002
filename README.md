@@ -68,6 +68,35 @@
     <img src="https://img.shields.io/badge/-Python-376c99?style=for-the-badge&logo=Python&logoColor=f7ca3e" />
     <img src="https://img.shields.io/badge/-java-914359?style=for-the-badge&logo=c&logoColor=white" />
 </p>
+
+</details>
+
+    <details>
+   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary><br>
+   <h3>Activity <img width="40" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" /></h3> 
+   <p align="center">
+      <img align="center" src="" alt=""/><br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebhi-2002&show_icons=true&locale=en&theme=dark" alt="rebhi-2002" style="width:50%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebhi-2002&theme=dark" alt="rebhi-2002" style="width:50%"/>
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=8&theme=dark" alt="rebhi-2002" style="width:50%"/>
+   </p>
+   <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3> 
+   <img src="https://activity-graph.herokuapp.com/graph?username=rebhi-2002&theme=dracula&color=B994E6&bg_color=151515" />
+</details>
+    
+<div align="center"><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
+</div>
+
+    
+<!--
+
+**rebhi-2002/rebhi-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+-->
+
+
     
 <!--
 
