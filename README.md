@@ -15,6 +15,16 @@
 - 📫 You can shoot me an email at rebheibrahim@gmail.com! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/) for more details about me. I'm open to feedback and suggestions.
 
+  <br />
+<div align="center">
+  <img src="https://img.shields.io/github/watchers/rebhi-2002/rebhi-2002.svg" />
+  <img src="https://img.shields.io/github/stars/rebhi-2002/rebhi-2002.svg" />
+  <img src="https://img.shields.io/github/followers/rebhi-2002.svg?style=social&label=Follow&maxAge=2592000" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&ryo-ma&theme=onedark" />
+</div>
+
 <h3 dir="auto"><a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a> A little more about my coding life.</h3>
 <details>
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary>
@@ -77,13 +87,16 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=rebhi-2002&theme=dracula&color=B994E6&bg_color=151515" />
   </details>
 </details>
-  <h3 align="center">Connect with me ✉️</h3>
-  <p align="center">
-    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-    <a href="https://wa.me/972597523575"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://fb.com/" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  </p>
+<h3 align="center">Connect with me ✉️</h3>
+<p align="center">
+  <a href="https://wa.me/972597523575"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://fb.com/" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 <div align="center"><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
 </div>
