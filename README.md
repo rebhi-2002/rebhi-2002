@@ -43,7 +43,7 @@
   </div>
   <div class="highlight highlight-source-cs position-relative overflow-auto"><pre><span class="pl-smi">rebhi-2002@github</span>
   <span class="pl-k">------------------------</span><span class="pl-k">-</span>
-  <span class="pl-en">🤖 RE</span>: <span class="pl-smi">Windows</span> <span class="pl-smi">x86_64</span>
+  <span class="pl-en">🤖 OS</span>: <span class="pl-smi">Windows</span> <span class="pl-smi">x86_64</span>
   <span class="pl-en">🤷‍♂️ Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
   <span class="pl-en">🗺️ Location</span>: <span class="pl-smi">Palestine</span>, <span class="pl-smi">Gaza</span>
   <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>,<span class="pl-smi">Java</span>,
