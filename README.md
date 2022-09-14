@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Front-end Development and Problem Solving**.
 - 💬 Feel free to reach out to me for some interesting discussion.
 - 📫 You can shoot me an email at rebheibrahim@gmail.com! I'll try to respond as soon as I can.
-- 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/) for more details about me. I'm open to feedback and suggestions.
+- 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/Rebhe-Portfolio/) for more details about me. I'm open to feedback and suggestions.
 
   <br />
 <div align="center">
