@@ -46,9 +46,11 @@
   <span class="pl-en">🤖 OS</span>: <span class="pl-smi">Windows</span> <span class="pl-smi">x86_64</span>
   <span class="pl-en">🤷‍♂️ Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
   <span class="pl-en">🗺️ Location</span>: <span class="pl-smi">Palestine</span>, <span class="pl-smi">Gaza</span>
-  <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>,<span class="pl-smi">Java</span>,
-                 <span class="pl-smi">HTML</span>,<span class="pl-smi">CSS</span>,<span class="pl-smi">JavaScript</span>,
-                 <span class="pl-smi">Python</span>
+ <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>, <span class="pl-smi">Java</span>,
+                <span class="pl-smi">HTML5</span>, <span class="pl-smi">CSS3</span>,
+                <span class="pl-smi">JavaScript</span>, <span class="pl-smi">ChartJs</span>,
+                <span class="pl-smi">jQuery</span>, <span class="pl-smi">Bootstrap</span>,
+                <span class="pl-smi">SCSS</span>, <span class="pl-smi">Python</span>
   <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">Learn more about web</span>
   <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning</span>, <span class="pl-smi">Gaming</span>
   <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -63,14 +65,37 @@
     </div>
   </div>
   <p align="center" dir="auto">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-376c99?style=for-the-badge&logo=Python&logoColor=f7ca3e" />
-    <img src="https://img.shields.io/badge/-java-914359?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery Badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap Badge">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SASS Badge">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React Badge">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django Badge">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C Badge">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java Badge">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS Badge">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript Badge">
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack Badge">    
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma Badge">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="Adobe Photoshop Badge">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white" alt="Adobe Illustrator Badge">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva Badge">
+    <img src="https://img.shields.io/badge/Marvel-E44D27?style=for-the-badge&amp;logo=marvel&amp;logoColor=white" alt="Marvel Badge">
+    <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&amp;logo=invision&amp;logoColor=white" alt="InVision Badge">
+    <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&amp;logo=sketch&amp;logoColor=white" alt="Sketch Badge">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt="Visual Studio Code Badge">
+    <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&amp;logo=atom&amp;logoColor=white" alt="Atom Badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&amp;logo=intellij%20idea&amp;logoColor=white" alt="IntelliJ IDEA Badge">
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&amp;logo=eclipse%20ide&amp;logoColor=white" alt="Eclipse IDE Badge">
+    <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=for-the-badge&amp;logo=apache%20netbeans%20ide&amp;logoColor=white" alt="NetBeans IDE Badge">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm Badge">
+    <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&amp;logo=sublime%20text&amp;logoColor=white" alt="Sublime Text Badge">
   </p>
   </article>
 </details>
@@ -84,23 +109,38 @@
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=8&theme=dark" alt="rebhi-2002" style="width:50%"/>
   </p>
   <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=rebhi-2002&theme=dracula&color=B994E6&bg_color=151515" />
   </details>
 </details>
 <h3 align="center">Connect with me ✉️</h3>
-<p align="center">
-  <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <p align="center" dir="auto">
+  <a href="https://wa.me/972597523575"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/rebhe2002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://fb.com/" target="blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rebhi-2002"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rebhe-ibrahim-451504244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+<h3 align="center">🤝 Available for Hire: </h3>
+<p align="center" dir="auto">
+  <a href="https://www.upwork.com/freelancers/~01be8254101d97cbb1" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork">
+  </a>
+  <a href="https://www.freelancer.com/u/RebheIbrahim">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&amp;logo=freelancer&amp;logoColor=white" alt="Freelancer">
+  </a>    
+  </a>
+  <a href="https://mostaql.com/u/RebheIbrahim">
+     <img src="https://img.shields.io/badge/%D9%85%D8%B3%D8%AA%D9%82%D9%84-FF5800?style=for-the-badge&amp;logo=%D9%85%D8%B3%D8%AA%D9%82%D9%84&amp;logoColor=white" alt="مستقل">
+  </a>
+  <a href="https://khamsat.com/user/rebheibrahim">
+    <img src="https://img.shields.io/badge/%D8%AE%D9%85%D8%B3%D8%A7%D8%AA-FF8800?style=for-the-badge&amp;logo=%D8%AE%D9%85%D8%B3%D8%A7%D8%AA&amp;logoColor=white" alt="خمسات">
+  </a>    
 </p>
 <div align="center"><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
 </div>
-
+  
 <!--
 
 **rebhi-2002/rebhi-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
