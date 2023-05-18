@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java Badge">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS Badge">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript Badge">
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack Badge">    
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack Badge">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma Badge">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="Adobe Photoshop Badge">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white" alt="Adobe Illustrator Badge">
@@ -102,13 +102,13 @@
   <h3 dir="auto"><a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a> A little more Stats</h3>
 <details>
   <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary><br>
-  <h3>Activity <img width="40" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" /></h3> 
+  <h3>Activity <img width="40" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" /></h3>
   <p align="center">
     <img align="center" src="" alt=""/><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebhi-2002&show_icons=true&locale=en&theme=dark" alt="rebhi-2002" style="width:50%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebhi-2002&theme=dark" alt="rebhi-2002" style="width:50%"/>
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=8&theme=dark" alt="rebhi-2002" style="width:50%"/>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=8&theme=dark" alt="rebhi-2002" style="width:50%" />
   </p>
-  <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3> 
+  <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" /></h3>
   </details>
 </details>
 <h3 align="center">Connect with me ✉️</h3>
@@ -116,10 +116,12 @@
   <a href="https://wa.me/972597523575" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/rebhe2002" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://fb.com/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-f24b5b?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://github.com/rebhi-2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <br/>
   <a href="https://www.linkedin.com/in/rebhe-ibrahim-451504244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rebhi-2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codepen.io/rebhe-2002" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 <h3 align="center">🤝 Available for Hire: </h3>
 <p align="center" dir="auto">
@@ -128,19 +130,22 @@
   </a>
   <a href="https://www.freelancer.com/u/RebheIbrahim" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&amp;logo=freelancer&amp;logoColor=white" alt="Freelancer">
-  </a>    
+  </a>
   </a>
   <a href="https://mostaql.com/u/RebheIbrahim" target="_blank">
      <img src="https://img.shields.io/badge/%D9%85%D8%B3%D8%AA%D9%82%D9%84-FF5800?style=for-the-badge&amp;logo=%D9%85%D8%B3%D8%AA%D9%82%D9%84&amp;logoColor=white" alt="مستقل">
   </a>
   <a href="https://khamsat.com/user/rebheibrahim" target="_blank">
     <img src="https://img.shields.io/badge/%D8%AE%D9%85%D8%B3%D8%A7%D8%AA-FF8800?style=for-the-badge&amp;logo=%D8%AE%D9%85%D8%B3%D8%A7%D8%AA&amp;logoColor=white" alt="خمسات">
-  </a>    
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+  </a>
 </p>
 <div align="center"><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
 </div>
-  
+
 <!--
 
 **rebhi-2002/rebhi-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
