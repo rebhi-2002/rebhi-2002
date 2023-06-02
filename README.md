@@ -2,7 +2,7 @@
 <h2> <img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h2>
 <h3 align="center">
     <a href="https://github.com/rebhi-2002?tab=repositories">
-      <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=680&height=45&color=ff9100&vCenter=true&size=25&pause=1000">
+      <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Always+learning+new+things;Learner+React+Js&font=Fira%20Code&center=true&width=680&height=45&color=ff9100&vCenter=true&size=25&pause=1000">
     </a>
 </h3>
 
