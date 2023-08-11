@@ -57,7 +57,7 @@
                 <span class="pl-smi">JavaScript</span>, <span class="pl-smi">ChartJs</span>,
                 <span class="pl-smi">jQuery</span>, <span class="pl-smi">Bootstrap</span>,
                 <span class="pl-smi">SCSS</span>, <span class="pl-smi">Python</span>
-  <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi"><strong>Learn more about web</strong></span>
+  <span class="pl-en">🥅 2022 Goals: </span><span class="pl-smi"><strong>Learn more about web</strong></span>
   <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning New Things</span>, <span class="pl-smi">Gaming</span>
   <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre>
 </div>  <div class="zeroclipboard-container position-absolute right-0 top-0">
