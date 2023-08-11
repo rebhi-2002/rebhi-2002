@@ -46,14 +46,16 @@
   <span class="pl-en">🤖 OS</span>: <span class="pl-smi">Windows</span> <span class="pl-smi">x86_64</span>
   <span class="pl-en">🤷‍♂️ Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
   <span class="pl-en">🗺️ Location</span>: <span class="pl-smi">Palestine</span>, <span class="pl-smi">Gaza</span>
- <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>, <span class="pl-smi">Java</span>,
+  <span class="pl-en">🔥 Frameworks</span>: <span class="pl-smi">Vue.js</span>
+  <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>, <span class="pl-smi">Java</span>,
                 <span class="pl-smi">HTML5</span>, <span class="pl-smi">CSS3</span>,
                 <span class="pl-smi">JavaScript</span>, <span class="pl-smi">ChartJs</span>,
                 <span class="pl-smi">jQuery</span>, <span class="pl-smi">Bootstrap</span>,
                 <span class="pl-smi">SCSS</span>, <span class="pl-smi">Python</span>
-  <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">Learn more about web</span>
-  <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning</span>, <span class="pl-smi">Gaming</span>
-  <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+  <span class="pl-en">🥅 2022 Goals: </span>: <span class="pl-smi">**Learn more about web**</span>
+  <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning New Things</span>, <span class="pl-smi">Gaming</span>
+  <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre>
+</div>  <div class="zeroclipboard-container position-absolute right-0 top-0">
       <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pgsohail@github" tabindex="0" role="button" style="display: inherit;">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
       <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
