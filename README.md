@@ -2,19 +2,24 @@
 <h1> <img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h1>
 <p align="center">
     <a href="https://github.com/rebhi-2002?tab=repositories" align="center">
-      <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Always+learning+new+things;Learner+React+Js&font=Fira%20Code&center=true&width=680&height=45&color=ff9100&vCenter=true&size=25&pause=1000">
+      <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Beginner+ReactJS;Always+learning+new+things;&font=Fira%20Code&center=true&width=680&height=45&color=ff9100&vCenter=true&size=25&pause=1000">
     </a>
 </p>
+
+<!--
+<h1 align="center" dir="auto"><a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png"></g-emoji> Hi, I'm Rebhe Ibrahim 👋</h1>
+-->
 
 <h3>🔎 About me :</h3>
 <br>
 
 - 🎓 I'm currently studying Computer Science at **Al-Azhar University**.
+- 💡 I like to explore new technologies and develop software solutions.
 - 🌱 I’m currently learning **Front-end Development and Problem Solving**.
 - 💬 Feel free to reach out to me for some interesting discussion.
 - 📫 You can shoot me an email at rebheibrahim@gmail.com! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/Rebhe-Portfolio/) for more details about me. I'm open to feedback and suggestions.
-
+  
   <br />
 <div align="center">
   <img src="https://img.shields.io/github/watchers/rebhi-2002/rebhi-2002.svg" />
