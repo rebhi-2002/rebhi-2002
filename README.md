@@ -102,7 +102,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><strong>Version Control</strong></td>
+      <td align="center"><strong>Version Control</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=git" alt="Git" />
         <img src="https://skillicons.dev/icons?i=github" alt="Github" />
