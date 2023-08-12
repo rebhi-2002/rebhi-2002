@@ -255,51 +255,45 @@
   </h3>
 </details>
 
+<br />
+
+## Problem Solving 🧠
+![LeetCode user rebhi-2002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frebhi-2002&logo=leetcode&logoColor=yellow)
+
+<br />
+
+## Reach Me 🔭
+<p align="left">
+  <a href="https://dev.to/rebhe2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rebhi-2002" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rebhe-ibrahim-451504244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rebhe-ibrahim" height="30" width="40" /></a>
+  <a href="https://fb.com/rebhi.ebraheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rebhi.ebraheem" height="30" width="40" /></a>
+  <a href="https://instagram.com/rebhe_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rebhe_ibrahim" height="30" width="40" /></a>
+  <a href="https://medium.com/@rebheibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rebheibrahim" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/rebheibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rebheibrahim" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/rebhi-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rebhi-2002" height="30" width="40" /></a>
+</p>
+
+<br />
+
 <h3 align="center">Connect with me ✉️</h3>
 <p align="center" dir="auto">
-  <a href="https://wa.me/972597523575" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://t.me/rebhe2002" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/rebhi.ebraheem" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rebhe_ibrahim" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rebhe-ibrahim-451504244" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rebhi-2002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/rebhe-2002" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
+  <a href="https://wa.me/972597523575" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://t.me/rebhe2002" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rebhi.ebraheem" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/rebhe_ibrahim" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rebhe-ibrahim-451504244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rebhi-2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codepen.io/rebhe-2002" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 
 <h3 align="center">🤝 Available for Hire: </h3>
 <p align="center" dir="auto">
-  <a href="https://www.upwork.com/freelancers/~01be8254101d97cbb1" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork">
-  </a>
-  <a href="https://www.freelancer.com/u/RebheIbrahim" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&amp;logo=freelancer&amp;logoColor=white" alt="Freelancer">
-  </a>
-  <a href="https://mostaql.com/u/RebheIbrahim" target="_blank">
-     <img src="https://img.shields.io/badge/%D9%85%D8%B3%D8%AA%D9%82%D9%84-FF5800?style=for-the-badge&amp;logo=%D9%85%D8%B3%D8%AA%D9%82%D9%84&amp;logoColor=white" alt="مستقل">
-  </a>
-  <a href="https://khamsat.com/user/rebheibrahim" target="_blank">
-    <img src="https://img.shields.io/badge/%D8%AE%D9%85%D8%B3%D8%A7%D8%AA-FF8800?style=for-the-badge&amp;logo=%D8%AE%D9%85%D8%B3%D8%A7%D8%AA&amp;logoColor=white" alt="خمسات">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
-  </a>
+  <a href="https://www.upwork.com/freelancers/~01be8254101d97cbb1" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork"></a>
+  <a href="https://www.freelancer.com/u/RebheIbrahim" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&amp;logo=freelancer&amp;logoColor=white" alt="Freelancer"></a>
+  <a href="https://mostaql.com/u/RebheIbrahim" target="_blank"><img src="https://img.shields.io/badge/%D9%85%D8%B3%D8%AA%D9%82%D9%84-FF5800?style=for-the-badge&amp;logo=%D9%85%D8%B3%D8%AA%D9%82%D9%84&amp;logoColor=white" alt="مستقل"></a>
+  <a href="https://khamsat.com/user/rebheibrahim" target="_blank"><img src="https://img.shields.io/badge/%D8%AE%D9%85%D8%B3%D8%A7%D8%AA-FF8800?style=for-the-badge&amp;logo=%D8%AE%D9%85%D8%B3%D8%A7%D8%AA&amp;logoColor=white" alt="خمسات"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
 
 <div align="center"><br>
