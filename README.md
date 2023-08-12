@@ -152,19 +152,19 @@
 
   <div class="highlight highlight-source-cs position-relative overflow-auto">
     <pre><span class="pl-smi">rebhi-2002@github</span>
-      <span class="pl-k">------------------------</span><span class="pl-k">-</span>
-      <span class="pl-en">🤖 OS</span>: <span class="pl-smi">Windows</span><span class="pl-smi">x86_64</span>
-      <span class="pl-en">🤷‍♂️ Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
-      <span class="pl-en">🗺️ Location</span>: <span class="pl-smi">Palestine</span>, <span class="pl-smi">Gaza</span>
-      <span class="pl-en">🔥 Frameworks</span>: <span class="pl-smi">Vue.js</span>
-      <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>, <span class="pl-smi">Java</span>,
-                      <span class="pl-smi">HTML5</span>, <span class="pl-smi">CSS3</span>,
-                      <span class="pl-smi">JavaScript</span>, <span class="pl-smi">ChartJs</span>,
-                      <span class="pl-smi">jQuery</span>, <span class="pl-smi">Bootstrap</span>,
-                      <span class="pl-smi">SCSS</span>, <span class="pl-smi">Python</span>
-      <span class="pl-en">🥅 2022 Goals: </span><span class="pl-smi"><strong>Learn more about web</strong></span>
-      <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning New Things</span>, <span class="pl-smi">Gaming</span>
-      <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre>
+    <span class="pl-k">------------------------</span><span class="pl-k">-</span>
+    <span class="pl-en">🤖 OS</span>: <span class="pl-smi">Windows</span><span class="pl-smi">x86_64</span>
+    <span class="pl-en">🤷‍♂️ Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
+    <span class="pl-en">🗺️ Location</span>: <span class="pl-smi">Palestine</span>, <span class="pl-smi">Gaza</span>
+    <span class="pl-en">🔥 Frameworks</span>: <span class="pl-smi">Vue.js</span>
+    <span class="pl-en">🧑‍💻 Languages & Skils</span>: <span class="pl-smi">C</span>, <span class="pl-smi">Java</span>,
+                    <span class="pl-smi">HTML5</span>, <span class="pl-smi">CSS3</span>,
+                    <span class="pl-smi">JavaScript</span>, <span class="pl-smi">ChartJs</span>,
+                    <span class="pl-smi">jQuery</span>, <span class="pl-smi">Bootstrap</span>,
+                    <span class="pl-smi">SCSS</span>, <span class="pl-smi">Python</span>
+    <span class="pl-en">🥅 2022 Goals: </span><span class="pl-smi"><strong>Learn more about web</strong></span>
+    <span class="pl-en">⚡ Hobbies</span>: <span class="pl-smi">Learning New Things</span>, <span class="pl-smi">Gaming</span>
+    <span class="pl-en">📧 Email</span>: <span class="pl-smi">rebheibrahim@gmail.com</span></pre>
   </div>
 
   <div class="zeroclipboard-container position-absolute right-0 top-0">
