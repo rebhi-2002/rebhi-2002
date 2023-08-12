@@ -296,6 +296,11 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
 
+## The Long-Life Quote 🎈
+<p align="center">
+	<img src="https://www.azquotes.com/image-quotes/Quotation-Jim-Rohn-Happiness-is-not-by-chance-but-by-choice-34-56-56.jpg" />
+</p>
+
 <div align="center"><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
 </div>
