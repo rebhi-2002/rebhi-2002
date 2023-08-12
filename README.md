@@ -43,7 +43,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Languages</strong></td>
+      <td align="center"><strong>Languages</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
@@ -53,7 +53,7 @@
       <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
     </tr>
     <tr>
-      <td><strong>Frameworks</strong></td>
+      <td align="center"><strong>Frameworks</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
         <img src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js" />
@@ -65,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Text Editors</strong></td>
+      <td align="center"><strong>Text Editors</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
         <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
@@ -73,7 +73,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><strong>Design Software</strong></td>
+      <td align="center"><strong>Design Software</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
@@ -82,7 +82,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><strong>Development Tools</strong></td>
+      <td align="center"><strong>Development Tools</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=sass" alt="SASS(SCSS)" />
         <img src="https://skillicons.dev/icons?i=pug" alt="Pugjs" />
@@ -92,7 +92,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><strong>Command Line</strong></td>
+      <td align="center"><strong>Command Line</strong></td>
       <td>
         <img src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_48_green.png" alt="Cmder" />
         <img width="48" height="48" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/git-bash.png" alt="Git Bash" />
