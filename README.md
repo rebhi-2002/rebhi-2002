@@ -33,7 +33,6 @@
 <br />
 
 ## Tech Stack 🔮
-
 <table align="center">
   <thead>
     <tr>
