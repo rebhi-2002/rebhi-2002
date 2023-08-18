@@ -397,7 +397,7 @@
         <a href="https://slack.com" target="_blank"
           ><img
             align="center"
-            width="140"
+            width="120"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/slack.png"
             alt="Slack" /></a
         >&nbsp;
