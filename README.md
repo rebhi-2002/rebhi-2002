@@ -369,8 +369,8 @@
             align="center"
             width="80"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/MicrosoftTeams.png"
-            alt="Microsoft Teams" />
-        </a>&nbsp;
+            alt="Microsoft Teams" /></a
+        >&nbsp;
       </td>
       <td>
         <a href="https://www.atlassian.com/software/jira" target="_blank"
@@ -390,7 +390,7 @@
         <a href="https://www.bidsketch.com" target="_blank"
           ><img
             align="center"
-            width="90"
+            width="80"
             src="https://www.bidsketch.com/images/marketing/v2/bidsketch-logo-large-reverse.svg"
             alt="Bidsketch" /></a
         >&nbsp;&nbsp;
