@@ -386,14 +386,14 @@
             width="40"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/photo_2023-08-18_18-50-08.jpg"
             alt="Mailchimp" /></a
-        >&nbsp;&nbsp;
+        >&nbsp;
         <a href="https://www.bidsketch.com" target="_blank"
           ><img
             align="center"
             width="80"
             src="https://www.bidsketch.com/images/marketing/v2/bidsketch-logo-large-reverse.svg"
             alt="Bidsketch" /></a
-        >&nbsp;&nbsp;
+        >&nbsp;
         <a href="https://slack.com" target="_blank"
           ><img
             align="center"
