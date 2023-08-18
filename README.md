@@ -192,23 +192,23 @@
         >&nbsp;
       </td>
     </tr>
-        <tr align="center">
+    <tr align="center">
       <td><strong>Api's</strong></td>
       <td></td>
       <td>
         <a href="https://axios-http.com" target="_blank"
           ><img
             align="center"
-            width="48"
+            width="100"
             src="https://axios-http.com/assets/logo.svg"
             alt="Axios" /></a
-        >&nbsp;
+        >&nbsp;&nbsp;&nbsp;
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
           target="_blank"
           ><img
             align="center"
-            width="48"
+            width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/fetch.png"
             alt="Fetch_API" /></a
         >&nbsp;
