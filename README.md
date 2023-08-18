@@ -372,7 +372,7 @@
             alt="Microsoft Teams" /></a
         >&nbsp;
       </td>
-      <td>
+      <td align="center">
         <a href="https://www.atlassian.com/software/jira" target="_blank"
           ><img
             align="center"
