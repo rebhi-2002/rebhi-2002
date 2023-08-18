@@ -376,7 +376,7 @@
         <a href="https://www.atlassian.com/software/jira" target="_blank"
           ><img
             align="center"
-            width="48"
+            width="46"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/jira-software-logo-jira-logo-hd-png.webp"
             alt="Jira" /></a
         >&nbsp;
