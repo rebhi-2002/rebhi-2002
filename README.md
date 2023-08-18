@@ -33,6 +33,7 @@
 <br />
 
 ## Tech Stack 🔮
+
 <table align="center">
   <thead>
     <tr>
@@ -42,72 +43,334 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr align="center">
       <td><strong>Languages</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-        <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+          target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=html"
+            alt="HTML5" /></a
+        >&nbsp;
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+          target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=css"
+            alt="CSS3" /></a
+        >&nbsp;
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=js"
+            alt="JavaScript" /></a
+        >&nbsp;
+        <a href="https://jquery.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=jquery"
+            alt="jQuery" /></a
+        >&nbsp;
       </td>
-      <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
-    </tr>
-    <tr>
-      <td><strong>Frameworks</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-        <img src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-        <img src="https://skillicons.dev/icons?i=django" alt="Python Django" />
+        <a href="https://www.typescriptlang.org" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=typescript"
+            alt="TypeScript" /></a
+        >&nbsp;
+        <a href="https://www.python.org" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=python"
+            alt="Python" /></a
+        >&nbsp;
       </td>
     </tr>
-    <tr>
+    <tr align="center">
+      <td><strong>Libraries</strong></td>
+      <td>
+        <a href="https://www.chartjs.org" target="_blank"
+          ><img
+            align="center"
+            width="48"
+            src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4"
+            alt="Chart.js" /></a
+        >&nbsp;
+        <a href="https://fontawesome.com" target="_blank"
+          ><img
+            align="center"
+            width="60"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/1505683.png"
+            alt="fontawesome" /></a
+        >&nbsp;
+      </td>
+      <td>
+        <a href="https://react.dev" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=react"
+            alt="React" /></a
+        >&nbsp;
+        <a href="https://redux.js.org" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=redux"
+            alt="Redux" /></a
+        >&nbsp;
+      </td>
+    </tr>
+    <tr align="center">
+      <td><strong>Web Frameworks</strong></td>
+      <td>
+        <a href="https://getbootstrap.com" target="_blank"
+          ><img
+            align="center"
+            align="center"
+            src="https://skillicons.dev/icons?i=bootstrap"
+            alt="Bootstrap" /></a
+        >&nbsp;
+        <a href="https://swiperjs.com" target="_blank"
+          ><img
+            align="center"
+            width="46"
+            align="center"
+            src="https://swiperjs.com/images/swiper-logo.svg"
+            alt="Swiper.js" /></a
+        >&nbsp;
+        <a href="https://vuejs.org" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=vuejs"
+            alt="Vue.js" /></a
+        >&nbsp;
+        <!--<a href="https://vuejs.org" target="_blank"><img align="center" width="60" align="center" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue.js" /></a>&nbsp;-->
+        <a href="https://bootstrap-vue.org" target="_blank"
+          ><img
+            align="center"
+            width="46"
+            align="center"
+            src="https://avatars.githubusercontent.com/u/22965283?s=200&v=4"
+            alt="BootstrapVue" /></a
+        >&nbsp;
+      </td>
+      <td>
+        <a href="https://tailwindcss.com" target="_blank"
+          ><img
+            align="center"
+            width="60"
+            align="center"
+            src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"
+            alt="Tailwind CSS" /></a
+        >&nbsp;
+        <a href="https://react-bootstrap.netlify.app" target="_blank"
+          ><img
+            align="center"
+            width="48"
+            align="center"
+            src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"
+            alt="React Bootstrap" /></a
+        >&nbsp;
+        <a href="https://nextjs.org" target="_blank"
+          ><img
+            align="center"
+            align="center"
+            src="https://skillicons.dev/icons?i=nextjs"
+            alt="Next.js" /></a
+        >&nbsp;
+        <a href="https://www.djangoproject.com" target="_blank"
+          ><img
+            align="center"
+            align="center"
+            src="https://skillicons.dev/icons?i=django"
+            alt="Python Django" /></a
+        >&nbsp;
+      </td>
+    </tr>
+    <tr align="center">
       <td><strong>Text Editors</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-        <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
+        <a href="https://code.visualstudio.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=vscode"
+            alt="VS Code" /></a
+        >&nbsp;
+        <a href="https://github.blog/2022-06-08-sunsetting-atom" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=atom"
+            alt="Atom" /></a
+        >&nbsp;
       </td>
       <td></td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><strong>Design Software</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-        <img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop"/>
+        <a href="https://helpx.adobe.com/support/xd.html" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=xd"
+            alt="Adobe XD" /></a
+        >&nbsp;
+        <a href="https://www.figma.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=figma"
+            alt="Figma" /></a
+        >&nbsp;
+        <a href="https://helpx.adobe.com/support/photoshop.html" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=photoshop"
+            alt="Adobe Photoshop" /></a
+        >&nbsp;
       </td>
       <td></td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><strong>Development Tools</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=sass" alt="SASS(SCSS)" />
-        <img src="https://skillicons.dev/icons?i=pug" alt="Pugjs" />
-        <img src="https://skillicons.dev/icons?i=gulp" alt="GulpJs" />
-        <img src="https://skillicons.dev/icons?i=jest" alt="JestJs" />
+        <a href="https://sass-lang.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=sass"
+            alt="SASS(SCSS)" /></a
+        >&nbsp;
+        <a href="https://pugjs.org/api/getting-started.html" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=pug"
+            alt="Pugjs" /></a
+        >&nbsp;
+        <a href="https://gulpjs.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=gulp"
+            alt="GulpJs" /></a
+        >&nbsp;
+        <a href="https://jestjs.io" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=jest"
+            alt="JestJs" /></a
+        >&nbsp;
       </td>
       <td></td>
     </tr>
-    <tr>
+    <tr align="center">
       <td><strong>Command Line</strong></td>
       <td>
-        <img src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_48_green.png" alt="Cmder" />
-        <img width="48" height="48" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/git-bash.png" alt="Git Bash" />
-        <img src="https://skillicons.dev/icons?i=bash" alt="Git Bash" />
+        <a href="https://cmder.app" target="_blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_48_green.png"
+            alt="Cmder" /></a
+        >&nbsp;
+        <a href="https://git-scm.com" target="_blank"
+          ><img
+            align="center"
+            width="48"
+            height="48"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/git-bash.png"
+            alt="Git Bash" /></a
+        >&nbsp;
+        <a href="https://git-scm.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=bash"
+            alt="Git Bash" /></a
+        >&nbsp;
         <!-- <svg height="2419" viewBox="31.98258924 32.28452272 135.54499681 132.49547728" width="2500" xmlns="http://www.w3.org/2000/svg"><path d="m95.72 81.45v12.55l-30.11-30.1 10-10 15.19 15.2a9.75 9.75 0 0 0 -.61 3.43 9.91 9.91 0 0 0 5.53 8.92zm9.23 1.81 4.68 4.68-4.68 4.69zm28.64-19.26-18.09 18.07-6.09-6.07a9.83 9.83 0 0 0 .54-4.67 10 10 0 0 0 -9.39-8.68 9.64 9.64 0 0 0 -3.89.6l-15.2-15.25 12.88-12.84a7.36 7.36 0 0 1 10.42 0z" fill="#ff8080"/><path d="m89.74 105.53-27.36 27.36-27.15-26.89a8.49 8.49 0 0 1 .09-11.86l28-28 26.42 26.51a9.12 9.12 0 0 1 0 12.88z" fill="#80b3ff"/><path d="m105 108.79v11.49a9.46 9.46 0 0 1 4.46 9.88 9.32 9.32 0 0 1 -7.42 7.53 9.47 9.47 0 0 1 -6.32-17.69v-12.7a1 1 0 0 0 -1.63-.68l-28.67 28.66 29.5 29.5a7.33 7.33 0 0 0 10.36 0l27.83-27.78z" fill="#ffe680"/><path d="m163.54 107.45-26.54 26.55-28.58-28.58a8.56 8.56 0 0 1 0-12.1l3.29-3.32 7.29 7.27a9.92 9.92 0 1 0 5.88-5.88l-7.25-7.24 18.54-18.53 27.37 27.38a10.19 10.19 0 0 1 0 14.45z" fill="#8dd35f"/></svg> -->
       </td>
       <td></td>
     </tr>
-    <tr>
-      <td><strong>Version Control</strong></td>
+    <tr align="center">
+      <td><strong>Version Control Tools</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-        <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+        <a href="https://git-scm.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=git"
+            alt="Git" /></a
+        >&nbsp;
+        <a href="https://github.com" target="_blank"
+          ><img
+            align="center"
+            src="https://skillicons.dev/icons?i=github"
+            alt="Github" /></a
+        >&nbsp;
       </td>
       <td></td>
+    </tr>
+    <tr align="center">
+      <td><strong>Operating Systems</strong></td>
+      <td>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img
+            align="center"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+            alt="linux"
+            width="40"
+            height="40"
+          /> </a
+        >&nbsp;
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank"
+          ><img
+            align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+            alt="windows"
+            width="40"
+            height="40" /></a
+        >&nbsp;
+      </td>
+      <td></td>
+    </tr>
+    <tr align="center">
+      <td><strong>Project Management Tools</strong></td>
+      <td>
+        <a href="https://trello.com" target="_blank"
+          ><img
+            align="center"
+            width="46"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png"
+            alt="Trello" /></a
+        >&nbsp;
+      </td>
+      <td>
+        <a href="https://www.atlassian.com/software/jira" target="_blank"
+          ><img
+            align="center"
+            align="center"
+            width="46"
+            align="center"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/jira-software-logo-jira-logo-hd-png.webp"
+            alt="Jira" /></a
+        >&nbsp;
+        <a href="https://mailchimp.com" target="_blank"
+          ><img
+            align="center"
+            align="center"
+            width="46"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/photo_2023-08-18_18-50-08.jpg"
+            alt="Mailchimp" /></a
+        >&nbsp;
+        <a href="https://www.bidsketch.com" target="_blank"
+          ><img
+            align="center"
+            align="center"
+            width="80"
+            align="center"
+            src="https://www.bidsketch.com/images/marketing/v2/bidsketch-logo-large-reverse.svg"
+            alt="Bidsketch" /></a
+        >&nbsp;
+      </td>
     </tr>
   </tbody>
 </table>
