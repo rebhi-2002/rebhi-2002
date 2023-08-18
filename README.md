@@ -383,7 +383,7 @@
         <a href="https://mailchimp.com" target="_blank"
           ><img
             align="center"
-            width="46"
+            width="40"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/photo_2023-08-18_18-50-08.jpg"
             alt="Mailchimp" /></a
         >&nbsp;&nbsp;
