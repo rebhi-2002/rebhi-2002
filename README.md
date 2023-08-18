@@ -355,29 +355,33 @@
       <td></td>
     </tr>
     <tr align="center">
-      <td><strong>Project Management Tools</strong></td>
+      <td><strong>Project Management & Collaboration</strong></td>
       <td>
-        <a href="https://trello.com" target="_blank"
-          ><img
+        <a href="https://trello.com" target="_blank">
+          <img
             align="center"
             width="46"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png"
-            alt="Trello" /></a
-        >&nbsp;
+            alt="Trello" />
+        </a>&nbsp;
+        <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">
+          <img
+            align="center"
+            width="80"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/microsoft teams.webp"
+            alt="Microsoft Teams" />
+        </a>&nbsp;
       </td>
       <td>
         <a href="https://www.atlassian.com/software/jira" target="_blank"
           ><img
             align="center"
-            align="center"
             width="46"
-            align="center"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/jira-software-logo-jira-logo-hd-png.webp"
-            alt="Jira" /></a
-        >&nbsp;
+            alt="Jira" />
+        </a>&nbsp;
         <a href="https://mailchimp.com" target="_blank"
           ><img
-            align="center"
             align="center"
             width="46"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/photo_2023-08-18_18-50-08.jpg"
@@ -386,11 +390,16 @@
         <a href="https://www.bidsketch.com" target="_blank"
           ><img
             align="center"
-            align="center"
             width="80"
-            align="center"
             src="https://www.bidsketch.com/images/marketing/v2/bidsketch-logo-large-reverse.svg"
             alt="Bidsketch" /></a
+        >&nbsp;
+        <a href="https://slack.com" target="_blank"
+          ><img
+            align="center"
+            width="80"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/slack.png"
+            alt="Slack" /></a
         >&nbsp;
       </td>
     </tr>
