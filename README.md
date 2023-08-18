@@ -368,7 +368,7 @@
           <img
             align="center"
             width="80"
-            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/microsoft teams.webp"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/MicrosoftTeams.png"
             alt="Microsoft Teams" />
         </a>&nbsp;
       </td>
