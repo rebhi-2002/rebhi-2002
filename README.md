@@ -406,6 +406,42 @@
   </tbody>
 </table>
 
+<br />
+
+<details>
+<summary><h2>⚡Skills</h2></summary>
+<div align="left">
+
+### Programming Languages:
+
+- In-depth knowledge of HTML5, CSS3, and JavaScript (including ES6+).
+- Proficient in building responsive and interactive web pages with a strong foundation in front-end technologies.
+
+### Frameworks:
+
+- Experienced in utilizing Bootstrap for creating modern and responsive web interfaces.
+- Familiar with Vue.js for building dynamic and efficient user interfaces.
+- Skilled in using testing frameworks like Jest for ensuring code quality.
+
+### Text Editors & Design Tools:
+
+- Proficient in using industry-standard tools such as VS Code and Atom for coding.
+- Skilled in creating UI/UX prototypes with Adobe XD and Figma.
+- Capable of enhancing images with Adobe Photoshop to achieve the desired visual impact.
+
+### Future Learning:
+
+- Eager to expand skills with upcoming technologies.
+- Looking forward to diving into the world of React and Next.js for building powerful front-end applications.
+- Excited to explore the versatility of Python and Django for backend development.
+- Planning to master Git and GitHub for effective version control.
+</div>
+
+<div align="right">
+  <img align="center" width="170" src="https://github.com/rebhi-2002/rebhi-2002/assets/113286656/adf9d508-048f-4a13-bc91-208195ab5ca8" alt="🧑‍💻 WebDeveloperMycrxnGIF">
+</div>
+</details>
+
 <h3 dir="auto">
   <a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
