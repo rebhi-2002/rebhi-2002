@@ -406,8 +406,6 @@
   </tbody>
 </table>
 
-<br />
-
 <details>
 <summary><h2>⚡Skills</h2></summary>
 <div align="left">
