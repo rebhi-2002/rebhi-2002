@@ -363,7 +363,7 @@
             width="46"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png"
             alt="Trello" />
-        </a>&nbsp;
+        </a>
         <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">
           <img
             align="center"
