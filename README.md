@@ -32,6 +32,83 @@
 
 <br />
 
+<details>
+<summary>My Resume</summary>
+
+# Rehbe Ibrahim
+
+<kbd>![Profile Picture](https://avatars.githubusercontent.com/u/113286656?v=4)</kbd>
+
+## Contact Information
+
+- **Email**: rebheibrahim@email.com
+- **Phone**: +972 59-752-3575
+- **LinkedIn**: [linkedin.com/in/RebheIbrahim](https://www.linkedin.com/in/rebhe-ibrahim-451504244)
+- **GitHub**: [github.com/rebhi-2002](https://github.com/rebhi-2002)
+
+## Summary
+
+Passionate and results-driven web developer with 2+ years of experience in designing and building responsive web applications. Proficient in front-end technologies, including HTML5, CSS3, and JavaScript. Proven track record of collaborating effectively in cross-functional teams to deliver high-quality projects.
+
+## Work Experience
+
+### Senior Front-End Developer
+
+**Big Web Solutions** - New York, NY - October 2022 to Present
+
+- Led a team of developers in building complex web applications using React.
+- Currently learning React and working towards building proficiency in the framework.
+- Implementing best practices for performance optimization, resulting in a 40% improvement in load times.
+- Collaborating with UX designers to create visually stunning and user-friendly interfaces.
+
+### Web Developer
+
+**Creative Design Studio** - Palestine, Gaza - October 2021 to October 2022
+
+- Developed and maintained client websites, ensuring their functionality and responsiveness.
+- Worked closely with clients to gather requirements and translate them into technical solutions.
+- Conducted regular code reviews to ensure code quality and adherence to best practices.
+
+## Education
+
+- **Bachelor of Computer Science**
+  - _Al-Azhar University-Gaza_ - 2024
+
+## Skills
+
+- **Front-End Technologies**: HTML5, CSS3, JavaScript (ES6+), React, Vue.js
+- **Responsive Design**: Bootstrap, Media Queries
+- **Version Control**: Git, GitHub
+- **Testing Frameworks**: Jest
+- **Problem Solving**: Strong analytical and creative problem-solving skills
+- **Teamwork**: Effective communication and collaboration with cross-functional teams
+
+## Projects
+
+### Portfolio Website
+
+- Designed and developed a portfolio website to showcase my work and skills.
+- Technologies: HTML, CSS, JavaScript
+
+## Languages
+
+- **Arabic**: Native or Bilingual
+- **English**: Conversational
+
+## Hobbies
+
+- Hiking
+- Photography
+- Watching Movies, Playing Games
+
+## References
+
+Available upon request.
+
+</details>
+
+<br />
+
 ## Tech Stack 🔮
 
 <table align="center">
