@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/watchers/rebhi-2002/rebhi-2002.svg" />
   <img src="https://img.shields.io/github/stars/rebhi-2002/rebhi-2002.svg" />
-  <img src="https://img.shields.io/github/followers/rebhi-2002.svg?style=social&label=Follow&maxAge=2592000" />
+  <img src="https://img.shields.io/github/followers/rebhi-2002.svg?style=social&label=Follow&maxAge=259200" />
   <br /><br />
   <img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&ryo-ma&theme=onedark" />
 </div>
@@ -579,16 +579,16 @@
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=12&theme=dark" alt="rebhi-2002" style="width:50%" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Langs" style="width:42%"/>
     <br /><br />
-    <kbd>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=dark" alt="Repos-per-language" style="width:48%"/>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=dark" alt="Most-Commit-Language" style="width:48%"/>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=dark" alt="Stats" style="width:48%"/>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=dark&utcOffset=3.00" alt="Productive-Time" style="width:48%"/>
-    </kbd>
-    <br /><br />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebhi-2002&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="width:100%"/>
+    <!-- <kbd> -->
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=github_dark" alt="Repos-per-language" style="width:48%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=github_dark" alt="Most-Commit-Language" style="width:48%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=github_dark" alt="Stats" style="width:48%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=github_dark&utcOffset=3.00" alt="Productive-Time" style="width:48%"/>
+    <!-- </kbd> -->
   </p>
   <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
+    <br /><br />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebhi-2002&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="width:100%"/>
   </h3>
 </details>
 
