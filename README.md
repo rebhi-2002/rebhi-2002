@@ -579,10 +579,12 @@
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=12&theme=dark" alt="rebhi-2002" style="width:50%" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Langs" style="width:42%"/>
     <br /><br />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=dark" alt="Repos-per-language" style="width:48%"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=dark" alt="Most-Commit-Language" style="width:48%"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=dark" alt="Stats" style="width:48%"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=dark&utcOffset=5.30" alt="Productive-Time" style="width:48%"/>
+    <kbd>
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=dark" alt="Repos-per-language" style="width:48%"/>
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=dark" alt="Most-Commit-Language" style="width:48%"/>
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=dark" alt="Stats" style="width:48%"/>
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=dark&utcOffset=3.00" alt="Productive-Time" style="width:48%"/>
+    </kbd>
     <br /><br />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebhi-2002&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="width:100%"/>
   </p>
