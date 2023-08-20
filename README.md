@@ -573,17 +573,17 @@
   </p>
   <h3>Activity <img width="40" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" /></h3>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebhi-2002&show_icons=true&locale=en&theme=dark" alt="rebhi-2002" style="width:50%"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebhi-2002&theme=dark" alt="rebhi-2002" style="width:50%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebhi-2002&show_icons=true&locale=en&theme=dark" alt="rebhi-2002" style="width:49%"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebhi-2002&theme=dark" alt="rebhi-2002" style="width:49%"/>
     <br /><br />
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=12&theme=dark" alt="rebhi-2002" style="width:50%" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Langs" style="width:42%"/>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=12&theme=dark" alt="rebhi-2002" style="width:49%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Langs" style="width:49%"/>
     <br /><br />
     <!-- <kbd> -->
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=github_dark" alt="Repos-per-language" style="width:48%"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=github_dark" alt="Most-Commit-Language" style="width:48%"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=github_dark" alt="Stats" style="width:48%"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=github_dark&utcOffset=3.00" alt="Productive-Time" style="width:48%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=github_dark" alt="Repos-per-language" style="width:49%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=github_dark" alt="Most-Commit-Language" style="width:49%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=github_dark" alt="Stats" style="width:49%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=github_dark&utcOffset=3.00" alt="Productive-Time" style="width:49%"/>
     <!-- </kbd> -->
   </p>
   <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
@@ -662,7 +662,7 @@
 <!-- Back to TOP -->
 <div align="right">
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label=Back+to+Top&message=^&color=blue&style=flat-square" alt="Back to Top" />
+    <img src="https://img.shields.io/static/v1?label=Back+to+Top&message=^&color=blue&style=flat-square" alt="Back to Top" style="transition: all 0.3s ease;" />
   </a>
 </div>
 
