@@ -581,13 +581,9 @@
     <br /><br />
     <kbd>
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebhi-2002&theme=dark" alt="Repos-per-language" style="width:48%"/>
-      <br />
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebhi-2002&theme=dark" alt="Most-Commit-Language" style="width:48%"/>
-      <br />
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebhi-2002&theme=dark" alt="Stats" style="width:48%"/>
-      <br />
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebhi-2002&theme=dark&utcOffset=3.00" alt="Productive-Time" style="width:48%"/>
-      <br />
     </kbd>
     <br /><br />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebhi-2002&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="width:100%"/>
