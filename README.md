@@ -52,7 +52,7 @@ Passionate and results-driven web developer with 2+ years of experience in desig
 
 ### Senior Front-End Developer
 
-**Big Web Solutions** - New York, NY - October 2022 to Present
+**Big Web Solutions** - Palestine, Gaza - October 2022 to Present
 
 - Led a team of developers in building complex web applications using React.
 - Currently learning React and working towards building proficiency in the framework.
