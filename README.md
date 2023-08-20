@@ -4,7 +4,7 @@
 <h1><img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h1>
 <p align="center">
   <a href="https://github.com/rebhi-2002?tab=repositories" align="center">
-    <img alt="" src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Beginner+ReactJS;Always+learning+new+things;&font=Fira%20Code&center=true&width=680&height=45&color=03a9f4&vCenter=true&size=25&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Aspiring+ReactJS+Enthusiast;Always+Exploring+New+Technologies;&font=Fira%20Code&center=true&width=680&height=45&color=007ACC&vCenter=true&size=28&pause=1000" alt="Rebhe Ibrahim - Creative Front-end Developer and Aspiring ReactJS Enthusiast" />
   </a>
 </p>
 
@@ -573,8 +573,8 @@
   </p>
   <h3>Activity <img width="40" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" /></h3>
   <p align="center">
-    <img align="center" src="" alt=""/><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebhi-2002&show_icons=true&locale=en&theme=dark" alt="rebhi-2002" style="width:50%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebhi-2002&theme=dark" alt="rebhi-2002" style="width:50%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebhi-2002&show_icons=true&locale=en&theme=dark" alt="rebhi-2002" style="width:50%"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebhi-2002&theme=dark" alt="rebhi-2002" style="width:50%"/>
     <br /><br />
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&langs_count=12&theme=dark" alt="rebhi-2002" style="width:50%" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhi-2002&layout=compact&theme=dark&count_private=true&hide_border=false" alt="Top Langs" style="width:42%"/>
@@ -588,7 +588,7 @@
   </p>
   <h3>Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
     <br /><br />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebhi-2002&theme=nightowl" alt="GitHub Month Wise Contribution Graph" style="width:100%"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebhi-2002&theme=github_dark" alt="GitHub Month Wise Contribution Graph" style="width:100%"/>
   </h3>
 </details>
 
@@ -635,6 +635,8 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
 
+<br />
+
 ## The Long-Life Quote 🎈
 
 <p align="center">
@@ -645,16 +647,26 @@
 
 ---
 
-Credit: [Rebhi Ibrahim](https://github.com/rebhi-2002)
+<div align="center">
 
-Last Edited on: 20/08/2023
+<div align="left">
+
+### **Author**: [Rebhi Ibrahim](https://github.com/rebhi-2002)
+
+### **Last Updated**: August 20, 2023
+
+[![Last Updated](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Updated&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+
+</div>
 
 <!-- Back to TOP -->
-<p align="right" width="100">
+<div align="right">
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" />
+    <img src="https://img.shields.io/static/v1?label=Back+to+Top&message=^&color=blue&style=flat-square" alt="Back to Top" />
   </a>
-</p>
+</div>
+
+</div>
 
 <div align="center"><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
@@ -666,4 +678,47 @@ Last Edited on: 20/08/2023
 
 Here are some ideas to get you started:
 
+-->
+
+<!--
+  # GitHub Stats
+
+  ## GitHub Badges
+
+  [![GitHub last commit](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Commit&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+  [![GitHub repo size](https://img.shields.io/github/repo-size/rebhi-2002/rebhi-2002?label=Repo%20Size&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+
+  ## Commit and Issue Badges
+
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rebhi-2002/rebhi-2002?style=for-the-badge)
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ![GitHub issues](https://img.shields.io/github/issues-raw/rebhi-2002/rebhi-2002?style=for-the-badge)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ## Code Coverage
+
+  ![Code coverage](https://img.shields.io/badge/coverage-90%25-brightgreen?style=for-the-badge)
+
+  ## GitHub Releases
+
+  ![GitHub All Releases](https://img.shields.io/github/downloads/rebhi-2002/rebhi-2002/total?style=for-the-badge)
+
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ## GitHub Repository Stats
+
+  ![GitHub top language](https://img.shields.io/github/languages/top/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ![GitHub forks](https://img.shields.io/github/forks/rebhi-2002/rebhi-2002?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ![GitHub contributors](https://img.shields.io/github/contributors/rebhi-2002/rebhi-2002?style=for-the-badge)
+
+  ![GitHub followers](https://img.shields.io/github/followers/rebhi-2002?style=for-the-badge)
+
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebhi-2002/rebhi-2002?label=Latest%20Release&style=for-the-badge)
+  ![GitHub release date](https://img.shields.io/github/release-date/rebhi-2002/rebhi-2002?style=for-the-badge)
 -->
