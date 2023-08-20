@@ -33,7 +33,7 @@
 <br />
 
 <details>
-<summary>My Resume</summary>
+<summary><h3>My Resume</h3></summary>
 
 # Rehbe Ibrahim
 
@@ -106,8 +106,6 @@ Passionate and results-driven web developer with 2+ years of experience in desig
 Available upon request.
 
 </details>
-
-<br />
 
 ## Tech Stack 🔮
 
