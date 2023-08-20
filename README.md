@@ -54,7 +54,6 @@ Passionate and results-driven web developer with 2+ years of experience in desig
 
 **Big Web Solutions** - Palestine, Gaza - October 2022 to Present
 
-- Led a team of developers in building complex web applications using React.
 - Currently learning React and working towards building proficiency in the framework.
 - Implementing best practices for performance optimization, resulting in a 40% improvement in load times.
 - Collaborating with UX designers to create visually stunning and user-friendly interfaces.
