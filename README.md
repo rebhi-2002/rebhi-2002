@@ -30,8 +30,6 @@
 - 📫 You can shoot me an email at rebheibrahim@gmail.com! I'll try to respond as soon as I can.
 - 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/Rebhe-Portfolio/) for more details about me. I'm open to feedback and suggestions.
 
-<br />
-
 <details>
 <summary><h3>My Resume</h3></summary>
 
