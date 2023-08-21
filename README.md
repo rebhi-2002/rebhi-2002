@@ -733,11 +733,6 @@ Available upon request.
 
 [![Last Updated](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Updated&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
 
-```mermaid
-graph LR
-    fa:fa-check-->fa:fa-coffee
-```
-
 </div>
 
 <!-- Back to TOP -->
