@@ -102,6 +102,8 @@ Passionate and results-driven web developer with 2+ years of experience in desig
 
 Available upon request.
 
+<!-- <img align="center" width="350" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/coding.gif" alt="Coding_GIF" /> -->
+
 </details>
 
 ## Tech Stack 🔮
@@ -725,9 +727,14 @@ Available upon request.
 
 ### **Author**: [Rebhi Ibrahim](https://github.com/rebhi-2002)
 
-### **Last Updated**: August 20, 2023
+### **Last Updated**: August 21, 2023
 
 [![Last Updated](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Updated&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+
+```mermaid
+graph LR
+    fa:fa-check-->fa:fa-coffee
+```
 
 </div>
 
@@ -740,7 +747,7 @@ Available upon request.
 
 </div>
 
-<div align="center"><br>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"></img>
 </div>
 
@@ -753,44 +760,49 @@ Here are some ideas to get you started:
 -->
 
 <!--
-  # GitHub Stats
+# GitHub Stats
 
-  ## GitHub Badges
+## GitHub Badges
 
-  [![GitHub last commit](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Commit&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
-  [![GitHub repo size](https://img.shields.io/github/repo-size/rebhi-2002/rebhi-2002?label=Repo%20Size&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+[![GitHub last commit](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Commit&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+[![GitHub repo size](https://img.shields.io/github/repo-size/rebhi-2002/rebhi-2002?label=Repo%20Size&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
 
-  ## Commit and Issue Badges
+## Commit and Issue Badges
 
-  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rebhi-2002/rebhi-2002?style=for-the-badge)
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/rebhi-2002/rebhi-2002?style=for-the-badge)
+[![GitHub activity](https://img.shields.io/github/commit-activity/y/rebhi-2002/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/rebhi-2002/rebhi-2002?style=for-the-badge)
 
-  ![GitHub issues](https://img.shields.io/github/issues-raw/rebhi-2002/rebhi-2002?style=for-the-badge)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rebhi-2002/rebhi-2002?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/rebhi-2002/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/rebhi-2002/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002/issues?q=is%3Aissue+is%3Aclosed)
 
-  ## Code Coverage
+## Code Coverage
 
-  ![Code coverage](https://img.shields.io/badge/coverage-90%25-brightgreen?style=for-the-badge)
+![Code coverage](https://img.shields.io/badge/coverage-90%25-brightgreen?style=for-the-badge)
 
-  ## GitHub Releases
+## GitHub Releases
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/rebhi-2002/rebhi-2002/total?style=for-the-badge)
+![GitHub All Releases](https://img.shields.io/github/downloads/rebhi-2002/rebhi-2002/total?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebhi-2002/rebhi-2002?label=Latest%20Release&style=for-the-badge)
+![GitHub release date](https://img.shields.io/github/release-date/rebhi-2002/rebhi-2002?style=for-the-badge)
 
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebhi-2002/rebhi-2002?style=for-the-badge)
+## GitHub Repository Stats
 
-  ## GitHub Repository Stats
+[![GitHub top language](https://img.shields.io/github/languages/top/rebhi-2002/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
 
-  ![GitHub top language](https://img.shields.io/github/languages/top/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/rebhi-2002/rebhi-2002?style=for-the-badge)
+[![GitHub stars](https://img.shields.io/github/stars/rebhi-2002/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002/stargazers)
 
-  ![GitHub forks](https://img.shields.io/github/forks/rebhi-2002/rebhi-2002?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?style=for-the-badge)
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?style=for-the-badge)
+[![GitHub repo status](https://img.shields.io/badge/repo%20status-open-brightgreen?style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
 
-  ![GitHub contributors](https://img.shields.io/github/contributors/rebhi-2002/rebhi-2002?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/rebhi-2002/rebhi-2002?style=for-the-badge)
 
-  ![GitHub followers](https://img.shields.io/github/followers/rebhi-2002?style=for-the-badge)
-
-  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rebhi-2002/rebhi-2002?label=Latest%20Release&style=for-the-badge)
-  ![GitHub release date](https://img.shields.io/github/release-date/rebhi-2002/rebhi-2002?style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=for-the-badge)](https://twitter.com/your-twitter-handle)
+[![Profile views](https://komarev.com/ghpvc/?username=rebhi-2002&style=for-the-badge)](https://github.com/rebhi-2002)
 -->
