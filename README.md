@@ -133,7 +133,7 @@ Available upon request.
           href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
           target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=html"
             alt="HTML5" /></a
         >&nbsp;
@@ -141,7 +141,7 @@ Available upon request.
           href="https://developer.mozilla.org/en-US/docs/Web/CSS"
           target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=css"
             alt="CSS3" /></a
         >&nbsp;
@@ -149,13 +149,13 @@ Available upon request.
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=js"
             alt="JavaScript" /></a
         >&nbsp;
         <a href="https://jquery.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=jquery"
             alt="jQuery" /></a
         >
@@ -163,13 +163,13 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://www.typescriptlang.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=typescript"
             alt="TypeScript" /></a
         >&nbsp;
         <a href="https://www.python.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=python"
             alt="Python" /></a
         >
@@ -180,14 +180,14 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://www.chartjs.org" target="_blank"
           ><img
-            align=""
+            align="center"
             width="48"
             src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4"
             alt="Chart.js" /></a
         >&nbsp;
         <a href="https://fontawesome.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="60"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/1505683.png"
             alt="fontawesome" /></a
@@ -196,13 +196,13 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://react.dev" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=react"
             alt="React" /></a
         >&nbsp;
         <a href="https://redux.js.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=redux"
             alt="Redux" /></a
         >
@@ -213,27 +213,27 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://getbootstrap.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=bootstrap"
             alt="Bootstrap" /></a
         >&nbsp;
         <a href="https://swiperjs.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="46"
             src="https://swiperjs.com/images/swiper-logo.svg"
             alt="Swiper.js" /></a
         >&nbsp;
         <a href="https://vuejs.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=vuejs"
             alt="Vue.js" /></a
         >&nbsp;
         <!--<a href="https://vuejs.org" target="_blank"><img align="center" width="60" align="center" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="Vue.js" /></a>&nbsp;-->
         <a href="https://bootstrap-vue.org" target="_blank"
           ><img
-            align=""
+            align="center"
             width="46"
             src="https://avatars.githubusercontent.com/u/22965283?s=200&v=4"
             alt="BootstrapVue" /></a
@@ -242,27 +242,27 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://tailwindcss.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="60"
             src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"
             alt="Tailwind CSS" /></a
         >&nbsp;
         <a href="https://react-bootstrap.netlify.app" target="_blank"
           ><img
-            align=""
+            align="center"
             width="48"
             src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"
             alt="React Bootstrap" /></a
         >&nbsp;
         <a href="https://nextjs.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=nextjs"
             alt="Next.js" /></a
         >&nbsp;
         <a href="https://www.djangoproject.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=django"
             alt="Python Django" /></a
         >
@@ -274,7 +274,7 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://axios-http.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="100"
             src="https://axios-http.com/assets/logo.svg"
             alt="Axios" /></a
@@ -283,7 +283,7 @@ Available upon request.
           href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
           target="_blank"
           ><img
-            align=""
+            align="center"
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/fetch.png"
             alt="Fetch_API" /></a
@@ -295,13 +295,13 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://code.visualstudio.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=vscode"
             alt="VS Code" /></a
         >&nbsp;
         <a href="https://github.blog/2022-06-08-sunsetting-atom" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=atom"
             alt="Atom" /></a
         >
@@ -313,19 +313,19 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://helpx.adobe.com/support/xd.html" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=xd"
             alt="Adobe XD" /></a
         >&nbsp;
         <a href="https://www.figma.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=figma"
             alt="Figma" /></a
         >&nbsp;
         <a href="https://helpx.adobe.com/support/photoshop.html" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=photoshop"
             alt="Adobe Photoshop" /></a
         >
@@ -337,25 +337,25 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://sass-lang.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=sass"
             alt="SASS(SCSS)" /></a
         >&nbsp;
         <a href="https://pugjs.org/api/getting-started.html" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=pug"
             alt="Pugjs" /></a
         >&nbsp;
         <a href="https://gulpjs.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=gulp"
             alt="GulpJs" /></a
         >&nbsp;
         <a href="https://jestjs.io" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=jest"
             alt="JestJs" /></a
         >
@@ -367,20 +367,20 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://cmder.app" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/icon_48_green.png"
             alt="Cmder" /></a
         >&nbsp;
         <a href="https://git-scm.com" target="_blank"
           ><img
-            align=""
+            align="center"
             height="48"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/git-bash.png"
             alt="Git Bash" /></a
         >&nbsp;
         <a href="https://git-scm.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=bash"
             alt="Git Bash" /></a
         >
@@ -393,13 +393,13 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://git-scm.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=git"
             alt="Git" /></a
         >&nbsp;
         <a href="https://github.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=github"
             alt="Github" /></a
         >
@@ -409,42 +409,42 @@ Available upon request.
     <tr align="center">
       <td><strong>Operating Systems</strong></td>
       <td style="vertical-align: middle">
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>&nbsp;
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="windows" width="40" height="40" /></a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>&nbsp;
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="windows" width="40" height="40" /></a>
       </td>
       <td style="vertical-align: middle"></td>
     </tr>
     <tr align="center">
       <td><strong>Project Management & Collaboration</strong></td>
       <td style="vertical-align: middle">
-        <a href="https://trello.com" target="_blank"><img align="" width="46" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png" alt="Trello" /></a>&nbsp;
-        <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img align="" width="80" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/MicrosoftTeams.png" alt="Microsoft Teams" /></a>
+        <a href="https://trello.com" target="_blank"><img align="center" width="46" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png" alt="Trello" /></a>&nbsp;
+        <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img align="center" width="80" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/MicrosoftTeams.png" alt="Microsoft Teams" /></a>
       </td>
       <td style="vertical-align: middle">
         <a href="https://www.atlassian.com/software/jira" target="_blank"
           ><img
-            align=""
+            align="center"
             width="48"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/jira-software-logo-jira-logo-hd-png.webp"
             alt="Jira" /></a
         >&nbsp;
         <a href="https://mailchimp.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="46"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/photo_2023-08-18_18-50-08.jpg"
             alt="Mailchimp" /></a
         >&nbsp;&nbsp;
         <a href="https://www.bidsketch.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="90"
             src="https://www.bidsketch.com/images/marketing/v2/bidsketch-logo-large-reverse.svg"
             alt="Bidsketch" /></a
         >&nbsp;&nbsp;
         <a href="https://slack.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="48"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/slack.png"
             alt="Slack" /></a
