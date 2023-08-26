@@ -13,12 +13,15 @@
 -->
 
 <div align="center">
-  <img src="https://img.shields.io/github/watchers/rebhi-2002/rebhi-2002.svg" />
-  <img src="https://img.shields.io/github/stars/rebhi-2002/rebhi-2002.svg" />
-  <img src="https://img.shields.io/github/followers/rebhi-2002.svg?style=social&label=Follow&maxAge=259200" />
+  <!--<img src="...?style=plastic&logo=&logoColor=&colorA=&colorB=" />-->
+  <img src="https://img.shields.io/github/watchers/rebhi-2002/rebhi-2002.svg?style=plastic" />
+  <img src="https://img.shields.io/github/stars/rebhi-2002/rebhi-2002.svg?style=plastic" />
+  <img src="https://img.shields.io/github/followers/rebhi-2002.svg?style=social&label=Follow&maxAge" />
   <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&ryo-ma&theme=onedark" />
+  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&theme=onedark&row=3&column=5&no-frame=false&margin-w=6&margin-h=6" alt="" /></div>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&ryo-ma&theme=onedark" /> -->
 </div>
+
 <br />
 
 <h3>🔎 About me :</h3><br>
@@ -31,9 +34,12 @@
 - 📄 Please have a look at my [Portfolio](https://rebhi-2002.github.io/Rebhe-Portfolio/) for more details about me. I'm open to feedback and suggestions.
 
 <details>
-<summary><h3>My Resume</h3></summary>
+<summary>
+<h3>My Resume</h3>
+<a href="#"><img align="center" width="30" src="https://img.icons8.com/ios/48/6495ED/resume.png" alt="Resume Icon" /></a>
+</summary>
 
-# Rehbe Ibrahim
+# Rebhe A. Ibrahim
 
 <kbd>![Profile Picture](https://avatars.githubusercontent.com/u/113286656?v=4)</kbd>
 
@@ -104,6 +110,7 @@ Available upon request.
 
 <!-- <img align="center" width="350" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/coding.gif" alt="Coding_GIF" /> -->
 
+<a href="#"><img align="right" src="https://img.shields.io/badge/Download-PDF-red" alt="Download Resume" /></a>
 <br />
 
 </details>
@@ -410,43 +417,16 @@ Available upon request.
     <tr align="center">
       <td><strong>Operating Systems</strong></td>
       <td>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
-            width="40"
-            height="40"
-          /> </a
-        >&nbsp;
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank"
-          ><img
-            align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
-            alt="windows"
-            width="40"
-            height="40" /></a
-        >
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>&nbsp;
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="windows" width="40" height="40" /></a>
       </td>
       <td></td>
     </tr>
     <tr align="center">
       <td><strong>Project Management & Collaboration</strong></td>
       <td>
-        <a href="https://trello.com" target="_blank">
-          <img
-            align="center"
-            width="46"
-            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png"
-            alt="Trello" />
-        </a>&nbsp;
-        <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank">
-          <img
-            align="center"
-            width="80"
-            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/MicrosoftTeams.png"
-            alt="Microsoft Teams" /></a
-        >
+        <a href="https://trello.com" target="_blank"><img align="center" width="46" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/2282472048054_9a51d280179d828b3ad7_512.png" alt="Trello" /></a>&nbsp;
+        <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank"><img align="center" width="80" src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/MicrosoftTeams.png" alt="Microsoft Teams" /></a>
       </td>
       <td>
         <a href="https://www.atlassian.com/software/jira" target="_blank"
@@ -524,8 +504,7 @@ Available upon request.
     </svg>
   </a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
-    <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;">
-  </a> A little more about my coding life.
+    <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a> A little more about my coding life.
 </h3>
 
 <details>
@@ -633,8 +612,7 @@ Available upon request.
     </svg>
   </a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
-    <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;">
-  </a> Github Stats 🕐
+    <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a> Github Stats 🕐
 </h3>
 
 <details>
@@ -668,7 +646,36 @@ Available upon request.
   </h3>
 </details>
 
+<details>
+
+<summary><h3>ASCII Art Generator 🎨</h3></summary>
+
 <br />
+
+```
+
+               ██▀███  ▓█████  ▄▄▄▄    ██░ ██ ▓█████           ██▓ ▄▄▄▄    ██▀███   ▄▄▄       ██░ ██  ██▓ ███▄ ▄███▓
+              ▓██ ▒ ██▒▓█   ▀ ▓█████▄ ▓██░ ██▒▓█   ▀          ▓██▒▓█████▄ ▓██ ▒ ██▒▒████▄    ▓██░ ██▒▓██▒▓██▒▀█▀ ██▒
+              ▓██ ░▄█ ▒▒███   ▒██▒ ▄██▒██▀▀██░▒███            ▒██▒▒██▒ ▄██▓██ ░▄█ ▒▒██  ▀█▄  ▒██▀▀██░▒██▒▓██    ▓██░
+              ▒██▀▀█▄  ▒▓█  ▄ ▒██░█▀  ░▓█ ░██ ▒▓█  ▄          ░██░▒██░█▀  ▒██▀▀█▄  ░██▄▄▄▄██ ░▓█ ░██ ░██░▒██    ▒██
+              ░██▓ ▒██▒░▒████▒░▓█  ▀█▓░▓█▒░██▓░▒████▒         ░██░░▓█  ▀█▓░██▓ ▒██▒ ▓█   ▓██▒░▓█▒░██▓░██░▒██▒   ░██▒
+              ░ ▒▓ ░▒▓░░░ ▒░ ░░▒▓███▀▒ ▒ ░░▒░▒░░ ▒░ ░         ░▓  ░▒▓███▀▒░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░▒░▒░▓  ░ ▒░   ░  ░
+                ░▒ ░ ▒░ ░ ░  ░▒░▒   ░  ▒ ░▒░ ░ ░ ░  ░          ▒ ░▒░▒   ░   ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░▒░ ░ ▒ ░░  ░      ░
+                ░░   ░    ░    ░    ░  ░  ░░ ░   ░             ▒ ░ ░    ░   ░░   ░   ░   ▒    ░  ░░ ░ ▒ ░░      ░
+                 ░        ░  ░ ░       ░  ░  ░   ░  ░          ░   ░         ░           ░  ░ ░  ░  ░ ░         ░
+                                    ░                                   ░
+
+```
+
+</details>
+
+<div align="center">
+
+### **GitHub Profile Summary:**
+
+[![Profile Summary](https://img.shields.io/badge/Profile_Summary-View_on_Profile_Summary_for_GitHub-0D5EAF?style=flat-square&logo=github&labelColor=2E4053&logoColor=white&label=Profile%20Summary)](https://profile-summary-for-github.com/user/rebhi-2002)
+
+</div>
 
 ## Problem Solving 🧠
 
@@ -729,7 +736,7 @@ Available upon request.
 
 ### **Author**: [Rebhi Ibrahim](https://github.com/rebhi-2002)
 
-### **Last Updated**: August 21, 2023
+### **Last Updated**: August 27, 2023
 
 [![Last Updated](https://img.shields.io/github/last-commit/rebhi-2002/rebhi-2002?label=Last%20Updated&style=for-the-badge)](https://github.com/rebhi-2002/rebhi-2002)
 
@@ -802,4 +809,91 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/rebhi-2002?style=for-the-badge)](https://github.com/rebhi-2002)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=for-the-badge)](https://twitter.com/your-twitter-handle)
 [![Profile views](https://komarev.com/ghpvc/?username=rebhi-2002&style=for-the-badge)](https://github.com/rebhi-2002)
+-->
+
+<!--
+```
+
+88888888ba              88           88                                88  88                                   88           88
+88      "8b             88           88                                88  88                                   88           ""
+88      ,8P             88           88                                88  88                                   88
+88aaaaaa8P'  ,adPPYba,  88,dPPYba,   88,dPPYba,    ,adPPYba,           88  88,dPPYba,   8b,dPPYba,  ,adPPYYba,  88,dPPYba,   88  88,dPYba,,adPYba,
+88""""88'   a8P_____88  88P'    "8a  88P'    "8a  a8P_____88           88  88P'    "8a  88P'   "Y8  ""     `Y8  88P'    "8a  88  88P'   "88"    "8a
+88    `8b   8PP"""""""  88       d8  88       88  8PP"""""""           88  88       d8  88          ,adPPPPP88  88       88  88  88      88      88
+88     `8b  "8b,   ,aa  88b,   ,a8"  88       88  "8b,   ,aa           88  88b,   ,a8"  88          88,    ,88  88       88  88  88      88      88
+88      `8b  `"Ybbd8"'  8Y"Ybbd8"'   88       88   `"Ybbd8"'           88  8Y"Ybbd8"'   88          `"8bbdP"Y8  88       88  88  88      88      88
+
+
+ ____            __       __                        ______   __                     __
+/\  _`\         /\ \     /\ \                      /\__  _\ /\ \                   /\ \      __
+\ \ \L\ \     __\ \ \____\ \ \___      __          \/_/\ \/ \ \ \____  _ __    __  \ \ \___ /\_\    ___ ___
+ \ \ ,  /   /'__`\ \ '__`\\ \  _ `\  /'__`\           \ \ \  \ \ '__`\/\`'__\/'__`\ \ \  _ `\/\ \ /' __` __`\
+  \ \ \\ \ /\  __/\ \ \L\ \\ \ \ \ \/\  __/            \_\ \__\ \ \L\ \ \ \//\ \L\.\_\ \ \ \ \ \ \/\ \/\ \/\ \
+   \ \_\ \_\ \____\\ \_,__/ \ \_\ \_\ \____\           /\_____\\ \_,__/\ \_\\ \__/.\_\\ \_\ \_\ \_\ \_\ \_\ \_\
+    \/_/\/ /\/____/ \/___/   \/_/\/_/\/____/           \/_____/ \/___/  \/_/ \/__/\/_/ \/_/\/_/\/_/\/_/\/_/\/_/
+
+
+8888888b.          888      888                              8888888 888                      888      d8b
+888   Y88b         888      888                                888   888                      888      Y8P
+888    888         888      888                                888   888                      888
+888   d88P .d88b.  88888b.  88888b.   .d88b.                   888   88888b.  888d888 8888b.  88888b.  888 88888b.d88b.
+8888888P" d8P  Y8b 888 "88b 888 "88b d8P  Y8b                  888   888 "88b 888P"      "88b 888 "88b 888 888 "888 "88b
+888 T88b  88888888 888  888 888  888 88888888                  888   888  888 888    .d888888 888  888 888 888  888  888
+888  T88b Y8b.     888 d88P 888  888 Y8b.                      888   888 d88P 888    888  888 888  888 888 888  888  888
+888   T88b "Y8888  88888P"  888  888  "Y8888                 8888888 88888P"  888    "Y888888 888  888 888 888  888  888
+
+
+
+ ██▀███  ▓█████  ▄▄▄▄    ██░ ██ ▓█████           ██▓ ▄▄▄▄    ██▀███   ▄▄▄       ██░ ██  ██▓ ███▄ ▄███▓
+▓██ ▒ ██▒▓█   ▀ ▓█████▄ ▓██░ ██▒▓█   ▀          ▓██▒▓█████▄ ▓██ ▒ ██▒▒████▄    ▓██░ ██▒▓██▒▓██▒▀█▀ ██▒
+▓██ ░▄█ ▒▒███   ▒██▒ ▄██▒██▀▀██░▒███            ▒██▒▒██▒ ▄██▓██ ░▄█ ▒▒██  ▀█▄  ▒██▀▀██░▒██▒▓██    ▓██░
+▒██▀▀█▄  ▒▓█  ▄ ▒██░█▀  ░▓█ ░██ ▒▓█  ▄          ░██░▒██░█▀  ▒██▀▀█▄  ░██▄▄▄▄██ ░▓█ ░██ ░██░▒██    ▒██
+░██▓ ▒██▒░▒████▒░▓█  ▀█▓░▓█▒░██▓░▒████▒         ░██░░▓█  ▀█▓░██▓ ▒██▒ ▓█   ▓██▒░▓█▒░██▓░██░▒██▒   ░██▒
+░ ▒▓ ░▒▓░░░ ▒░ ░░▒▓███▀▒ ▒ ░░▒░▒░░ ▒░ ░         ░▓  ░▒▓███▀▒░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░▒░▒░▓  ░ ▒░   ░  ░
+  ░▒ ░ ▒░ ░ ░  ░▒░▒   ░  ▒ ░▒░ ░ ░ ░  ░          ▒ ░▒░▒   ░   ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░▒░ ░ ▒ ░░  ░      ░
+  ░░   ░    ░    ░    ░  ░  ░░ ░   ░             ▒ ░ ░    ░   ░░   ░   ░   ▒    ░  ░░ ░ ▒ ░░      ░
+   ░        ░  ░ ░       ░  ░  ░   ░  ░          ░   ░         ░           ░  ░ ░  ░  ░ ░         ░
+                      ░                                   ░
+
+
+ ________  _______   ________  ___  ___  _______                 ___  ________  ________  ________  ___  ___  ___  _____ ______
+|\   __  \|\  ___ \ |\   __  \|\  \|\  \|\  ___ \               |\  \|\   __  \|\   __  \|\   __  \|\  \|\  \|\  \|\   _ \  _   \
+\ \  \|\  \ \   __/|\ \  \|\ /\ \  \\\  \ \   __/|              \ \  \ \  \|\ /\ \  \|\  \ \  \|\  \ \  \\\  \ \  \ \  \\\__\ \  \
+ \ \   _  _\ \  \_|/_\ \   __  \ \   __  \ \  \_|/__             \ \  \ \   __  \ \   _  _\ \   __  \ \   __  \ \  \ \  \\|__| \  \
+  \ \  \\  \\ \  \_|\ \ \  \|\  \ \  \ \  \ \  \_|\ \             \ \  \ \  \|\  \ \  \\  \\ \  \ \  \ \  \ \  \ \  \ \  \    \ \  \
+   \ \__\\ _\\ \_______\ \_______\ \__\ \__\ \_______\             \ \__\ \_______\ \__\\ _\\ \__\ \__\ \__\ \__\ \__\ \__\    \ \__\
+    \|__|\|__|\|_______|\|_______|\|__|\|__|\|_______|              \|__|\|_______|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|__|     \|__|
+
+
+ ______     ______     ______     __  __     ______              __     ______     ______     ______     __  __     __     __    __
+/\  == \   /\  ___\   /\  == \   /\ \_\ \   /\  ___\            /\ \   /\  == \   /\  == \   /\  __ \   /\ \_\ \   /\ \   /\ "-./  \
+\ \  __<   \ \  __\   \ \  __<   \ \  __ \  \ \  __\            \ \ \  \ \  __<   \ \  __<   \ \  __ \  \ \  __ \  \ \ \  \ \ \-./\ \
+ \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_____\           \ \_\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\  \ \_\ \ \_\
+  \/_/ /_/   \/_____/   \/_____/   \/_/\/_/   \/_____/            \/_/   \/_____/   \/_/ /_/   \/_/\/_/   \/_/\/_/   \/_/   \/_/  \/_/
+
+
+   __      _     _               _____ _               _     _
+  /__\ ___| |__ | |__   ___      \_   \ |__  _ __ __ _| |__ (_)_ __ ___
+ / \/// _ \ '_ \| '_ \ / _ \      / /\/ '_ \| '__/ _` | '_ \| | '_ ` _ \
+/ _  \  __/ |_) | | | |  __/   /\/ /_ | |_) | | | (_| | | | | | | | | | |
+\/ \_/\___|_.__/|_| |_|\___|   \____/ |_.__/|_|  \__,_|_| |_|_|_| |_| |_|
+
+
+______     _     _              _____ _               _     _
+| ___ \   | |   | |            |_   _| |             | |   (_)
+| |_/ /___| |__ | |__   ___      | | | |__  _ __ __ _| |__  _ _ __ ___
+|    // _ \ '_ \| '_ \ / _ \     | | | '_ \| '__/ _` | '_ \| | '_ ` _ \
+| |\ \  __/ |_) | | | |  __/    _| |_| |_) | | | (_| | | | | | | | | | |
+\_| \_\___|_.__/|_| |_|\___|    \___/|_.__/|_|  \__,_|_| |_|_|_| |_| |_|
+
+
+  _____      _     _              _____ _               _     _
+ |  __ \    | |   | |            |_   _| |             | |   (_)
+ | |__) |___| |__ | |__   ___      | | | |__  _ __ __ _| |__  _ _ __ ___
+ |  _  // _ \ '_ \| '_ \ / _ \     | | | '_ \| '__/ _` | '_ \| | '_ ` _ \
+ | | \ \  __/ |_) | | | |  __/    _| |_| |_) | | | (_| | | | | | | | | | |
+ |_|  \_\___|_.__/|_| |_|\___|   |_____|_.__/|_|  \__,_|_| |_|_|_| |_| |_|
+
+
+```
 -->
