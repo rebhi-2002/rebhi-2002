@@ -242,27 +242,27 @@ Available upon request.
       <td style="vertical-align: middle">
         <a href="https://tailwindcss.com" target="_blank"
           ><img
-            align=""
+            align="center"
             width="60"
             src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"
             alt="Tailwind CSS" /></a
         >&nbsp;
         <a href="https://react-bootstrap.netlify.app" target="_blank"
           ><img
-            align=""
+            align="center"
             width="48"
             src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"
             alt="React Bootstrap" /></a
         >&nbsp;
         <a href="https://nextjs.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=nextjs"
             alt="Next.js" /></a
         >&nbsp;
         <a href="https://www.djangoproject.com" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=django"
             alt="Python Django" /></a
         >
