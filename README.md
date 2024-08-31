@@ -270,15 +270,14 @@ Available upon request.
     </tr>
     <tr align="center">
       <td><strong>Api's</strong></td>
-      <td style="vertical-align: middle"></td>
       <td style="vertical-align: middle">
         <a href="https://axios-http.com" target="_blank"
           ><img
             align="center"
             width="100"
             src="https://axios-http.com/assets/logo.svg"
-            alt="Axios" /></a
-        >&nbsp;&nbsp;&nbsp;
+            alt="Axios" />
+        </a>&nbsp;&nbsp;&nbsp;
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
           target="_blank"
@@ -286,9 +285,37 @@ Available upon request.
             align="center"
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/fetch.png"
-            alt="Fetch_API" /></a
-        >
+            alt="Fetch_API" />
+        </a>&nbsp;&nbsp;&nbsp;
+        <a
+          href="https://www.mongodb.com"
+          target="_blank"
+          ><img
+            align="center"
+            width="75"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/mongodb.jpeg"
+            alt="MongoDB" />
+        </a>&nbsp;&nbsp;&nbsp;
+        <a
+          href="https://www.postman.com"
+          target="_blank"
+          ><img
+            align="center"
+            width="75"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/PostmanLogoVector.png"
+            alt="Postman" />
+        </a>&nbsp;&nbsp;&nbsp;
+        <a
+          href="https://firebase.google.com"
+          target="_blank"
+          ><img
+            align="center"
+            width="75"
+            src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/firebase.jpeg"
+            alt="Firebase" />
+        </a>
       </td>
+      <td style="vertical-align: middle"></td>
     </tr>
     <tr align="center">
       <td><strong>Text Editors</strong></td>
