@@ -191,9 +191,7 @@ Available upon request.
             width="60"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/1505683.png"
             alt="fontawesome" /></a
-        >
-      </td>
-      <td style="vertical-align: middle">
+        >&nbsp;
         <a href="https://react.dev" target="_blank"
           ><img
             align=""
@@ -207,6 +205,7 @@ Available upon request.
             alt="Redux" /></a
         >
       </td>
+      <td style="vertical-align: middle"></td>
     </tr>
     <tr align="center">
       <td><strong>Web Frameworks</strong></td>
@@ -237,15 +236,6 @@ Available upon request.
             width="46"
             src="https://avatars.githubusercontent.com/u/22965283?s=200&v=4"
             alt="BootstrapVue" /></a
-        >
-      </td>
-      <td style="vertical-align: middle">
-        <a href="https://tailwindcss.com" target="_blank"
-          ><img
-            align="center"
-            width="60"
-            src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"
-            alt="Tailwind CSS" /></a
         >&nbsp;
         <a href="https://react-bootstrap.netlify.app" target="_blank"
           ><img
@@ -259,6 +249,15 @@ Available upon request.
             align="center"
             src="https://skillicons.dev/icons?i=nextjs"
             alt="Next.js" /></a
+        >
+      </td>
+      <td style="vertical-align: middle">
+        <a href="https://tailwindcss.com" target="_blank"
+          ><img
+            align="center"
+            width="60"
+            src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4"
+            alt="Tailwind CSS" /></a
         >&nbsp;
         <a href="https://www.djangoproject.com" target="_blank"
           ><img
