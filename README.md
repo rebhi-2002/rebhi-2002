@@ -276,8 +276,8 @@ Available upon request.
             align="center"
             width="100"
             src="https://axios-http.com/assets/logo.svg"
-            alt="Axios" />
-        </a>&nbsp;&nbsp;&nbsp;
+            alt="Axios" /></a
+        >&nbsp;&nbsp;&nbsp;
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
           target="_blank"
@@ -286,7 +286,8 @@ Available upon request.
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/fetch.png"
             alt="Fetch_API" />
-        </a>&nbsp;&nbsp;&nbsp;
+        </a
+        >&nbsp;&nbsp;&nbsp;
         <a
           href="https://www.mongodb.com"
           target="_blank"
@@ -295,7 +296,8 @@ Available upon request.
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/mongodb.jpeg"
             alt="MongoDB" />
-        </a>&nbsp;&nbsp;&nbsp;
+        </a
+        >&nbsp;&nbsp;&nbsp;
         <a
           href="https://www.postman.com"
           target="_blank"
@@ -304,7 +306,8 @@ Available upon request.
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/PostmanLogoVector.png"
             alt="Postman" />
-        </a>&nbsp;&nbsp;&nbsp;
+        </a
+        >&nbsp;&nbsp;&nbsp;
         <a
           href="https://firebase.google.com"
           target="_blank"
