@@ -194,13 +194,13 @@ Available upon request.
         >&nbsp;
         <a href="https://react.dev" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=react"
             alt="React" /></a
         >&nbsp;
         <a href="https://redux.js.org" target="_blank"
           ><img
-            align=""
+            align="center"
             src="https://skillicons.dev/icons?i=redux"
             alt="Redux" /></a
         >
@@ -239,14 +239,14 @@ Available upon request.
         >&nbsp;
         <a href="https://react-bootstrap.netlify.app" target="_blank"
           ><img
-            align="center"
+            align=""
             width="48"
             src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"
             alt="React Bootstrap" /></a
         >&nbsp;
         <a href="https://nextjs.org" target="_blank"
           ><img
-            align="center"
+            align=""
             src="https://skillicons.dev/icons?i=nextjs"
             alt="Next.js" /></a
         >
