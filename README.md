@@ -285,8 +285,7 @@ Available upon request.
             align="center"
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/fetch.png"
-            alt="Fetch_API" />
-        </a
+            alt="Fetch_API" /></a
         >&nbsp;&nbsp;&nbsp;
         <a
           href="https://www.mongodb.com"
@@ -295,8 +294,7 @@ Available upon request.
             align="center"
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/mongodb.jpeg"
-            alt="MongoDB" />
-        </a
+            alt="MongoDB" /></a
         >&nbsp;&nbsp;&nbsp;
         <a
           href="https://www.postman.com"
@@ -305,8 +303,7 @@ Available upon request.
             align="center"
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/PostmanLogoVector.png"
-            alt="Postman" />
-        </a
+            alt="Postman" /></a
         >&nbsp;&nbsp;&nbsp;
         <a
           href="https://firebase.google.com"
@@ -315,8 +312,8 @@ Available upon request.
             align="center"
             width="75"
             src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/firebase.jpeg"
-            alt="Firebase" />
-        </a>
+            alt="Firebase" /></a
+        >
       </td>
       <td style="vertical-align: middle"></td>
     </tr>
