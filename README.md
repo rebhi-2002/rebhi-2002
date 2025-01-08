@@ -24,6 +24,20 @@
 
 <br />
 
+<p align="center">
+  <a href="https://youtu.be/mJsaI3Ee7dU">
+    <img src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/Web 1920 – 2.png" alt="Watch on YouTube" />
+  </a>
+</p>
+
+#### _A new developer community awaits you, be part of it!_
+<p align="center">
+  📢 <a href="https://t.me/ReactAcademy2024">React Academy Group</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📢 <a href="https://t.me/JavaScriptDevelopers2024">JavaScript Developers Group</a>
+</p>
+
+<br />
+
 <h3>🔎 About me :</h3><br>
 
 - 🎓 I'm currently studying Computer Science at **Al-Azhar University**.
