@@ -2,15 +2,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90"></img>
 </div>
 <h1><img width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" />, I'm </h1>
+
+<!--
+<h1 align="center" dir="auto"><a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png"></g-emoji> Hi, I'm Rebhe Ibrahim 👋</h1>
+-->
+
+<p align="center">
+  <a href="https://youtu.be/mJsaI3Ee7dU">
+    <img src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/Web 1920 – 2.png" alt="Watch on YouTube" style="border: 2px solid #000; border-radius: 10px;" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/rebhi-2002?tab=repositories" align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Aspiring+ReactJS+Enthusiast;Always+Exploring+New+Technologies;&font=Fira%20Code&center=true&width=680&height=45&color=007ACC&vCenter=true&size=28&pause=1000" alt="Rebhe Ibrahim - Creative Front-end Developer and Aspiring ReactJS Enthusiast" />
   </a>
 </p>
 
-<!--
-<h1 align="center" dir="auto"><a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png"></g-emoji> Hi, I'm Rebhe Ibrahim 👋</h1>
--->
+#### _A new developer community awaits you, be part of it!_
+<p align="center">
+  📢 <a href="https://t.me/ReactAcademy2024">React Academy Group</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📢 <a href="https://t.me/JavaScriptDevelopers2024">JavaScript Developers Group</a>
+</p>
+
+<br />
 
 <div align="center">
   <!--<img src="...?style=plastic&logo=&logoColor=&colorA=&colorB=" />-->
@@ -21,20 +36,6 @@
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&theme=onedark&row=3&column=5&no-frame=false&margin-w=6&margin-h=6" alt="" /></div>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=rebhi-2002&ryo-ma&theme=onedark" /> -->
 </div>
-
-<br />
-
-<p align="center">
-  <a href="https://youtu.be/mJsaI3Ee7dU">
-    <img src="https://raw.githubusercontent.com/rebhi-2002/rebhi-2002/main/images/Web 1920 – 2.png" alt="Watch on YouTube" />
-  </a>
-</p>
-
-#### _A new developer community awaits you, be part of it!_
-<p align="center">
-  📢 <a href="https://t.me/ReactAcademy2024">React Academy Group</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  📢 <a href="https://t.me/JavaScriptDevelopers2024">JavaScript Developers Group</a>
-</p>
 
 <br />
 
