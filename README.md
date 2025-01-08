@@ -20,7 +20,7 @@
   </a>
 </p>
 
-#### _A new developer community awaits you, be part of it!_
+<h3 align="center">A new developer community awaits you, be part of it!</h3>
 <p align="center">
   📢 <a href="https://t.me/ReactAcademy2024">React Academy Group</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   📢 <a href="https://t.me/JavaScriptDevelopers2024">JavaScript Developers Group</a>
