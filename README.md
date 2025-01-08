@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://github.com/rebhi-2002?tab=repositories" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+Ibrahim;Creative+Front-end+Developer;Aspiring+ReactJS+Enthusiast;Always+Exploring+New+Technologies;&font=Fira%20Code&center=true&width=680&height=45&color=007ACC&vCenter=true&size=28&pause=1000" alt="Rebhe Ibrahim - Creative Front-end Developer and Aspiring ReactJS Enthusiast" />
+    <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+ A. +Ibrahim;Creative+Front-end+Developer;Aspiring+ReactJS+Enthusiast;Always+Exploring+New+Technologies;&font=Fira%20Code&center=true&width=680&height=45&color=007ACC&vCenter=true&size=28&pause=1000" alt="Rebhe Ibrahim - Creative Front-end Developer and Aspiring ReactJS Enthusiast" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Rebhe+A.+Ibrahim;Creative+Front-end+Developer+Focused+on+Building+Innovative+User+Interfaces;Passionate+ReactJS+Enthusiast+Exploring+New+Technologies+Every+Day;&font=Fira%20Code&center=true&width=700&height=50&color=FF6F61&vCenter=true&size=30&pause=1000&effect=typing&background=333&line-height=35&text-shadow=2px%202px%202px%20rgba(0,0,0,0.5)" alt="Rebhe Ibrahim - Creative Front-end Developer and ReactJS Enthusiast" style="border: 2px solid #333; border-radius: 10px;"/>
   </a>
 </p>
 
